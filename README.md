@@ -1,5 +1,14 @@
-# Pair_program
-Collection of random pair programming exercises with GA WDi16 family
+# GA WDi16 Pair Programming Exercises
+## House Rules
+1. One driver + One navigator
+2. Switch keyboard time for all projects
+3. Everything done together
+4. Be kind
+5. CSS in your own time
 
-# List of successfully completed exercises
-- Awesome currency with Howie and Yangmei
+## Successfully completed exercises
+- Awesome_currency by gingernutter and Howie_Burger
+
+
+## Glorious failures
+- Beer_api by gingernutter and Howie_Burger
