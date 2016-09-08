@@ -14,7 +14,7 @@ console.log("Hello World");
   // API_KEY
   var API_KEY = "8fbcb3bff93393f48e4fe89ed3f7b7fc";
   // Base URL
-  var baseURL = "https://api.brewerydb.com/v2/search?";
+  var baseURL = "http://api.brewerydb.com/v2/search?";
   // jQuery variables
   var searchTerm;
 
@@ -28,7 +28,7 @@ var searchBeer = function(searchTerm) {
   $.ajax({
     url: baseURL,
     type: 'GET',
-    dataType: 'JSON',
+    format: 'JSON',
     data: {
       q: searchTerm,
       key: API_KEY
