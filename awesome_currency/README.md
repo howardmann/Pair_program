@@ -4,4 +4,4 @@
 - Authors: gingernutter and Howie_Burger
 - Description: jQuery AJAX exercise on Rails
 - API: fixer.io for latest currency exchange rates
-- Code: Find under assets/javascripts/pages.js and views/pages/index.html.erb
+- Code: Find under app/assets/javascripts/pages.js and app/views/pages/index.html.erb
